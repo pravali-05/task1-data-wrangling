@@ -1,0 +1,8 @@
+CustomerID,Age,Gender,City,PurchaseAmount
+101,22.0,F,Hyderabad,250.0
+102,25.0,M,Chennai,300.0
+105,28.0,F,Chennai,400.0
+106,35.0,M,Delhi,500.0
+107,40.0,F,Bangalore,200.0
+109,29.0,M,Hyderabad,150.0
+110,31.0,F,Chennai,450.0
